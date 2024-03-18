@@ -53,5 +53,5 @@ while True:
         print('erro')
         
     elif sair is True:
-        print('vc saiu')
+        print('Você saiu!!')
         break
